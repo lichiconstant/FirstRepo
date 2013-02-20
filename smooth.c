@@ -115,7 +115,7 @@ int main()
 {
   /* Variables for timing */
   TimePoint ta, tb;
-  int iter = 1, KHalfWidth; 
+  int iter = 20, KHalfWidth; 
  
   /* Create two input matrixes */
   float * m1in;
